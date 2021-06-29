@@ -1,5 +1,5 @@
 # Cat-dog
-This project is classifying images as either 'cat' or 'dog.'
+This project is classifying images as either 'cat' or 'dog' using the PyTorch framework.
 
 ## Data
 Data is from the Kaggle Competition "Dogs vs. Cats" found [here.](https://www.kaggle.com/c/dogs-vs-cats/overview)
